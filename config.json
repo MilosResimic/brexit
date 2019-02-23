@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "Twitterverse based on tweets with #brexit hashtag. I scraped tweets posted on February 21, between 8AM and 6PM. Network has 13305 nodes, and 16037 edges. Edge exists between two nodes, if one retweets another user\u0027s tweets. ",
+    "more": "Twitterverse based on tweets with #brexit hashtag. I scraped tweets posted on February 21, between 8AM and 6PM. Network has 13305 nodes, and 16037 edges. Edge exists between two nodes, if one retweets another user's tweets. 4 main communities emerge: Labour and SNP seem to be the most active political parties in the network ",
     "intro": " ",
     "title": "Twitterverse of Brexit"
   },
